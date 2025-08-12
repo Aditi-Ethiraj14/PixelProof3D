@@ -5,6 +5,7 @@
 It integrates the **[TripoSR](https://github.com/VAST-AI-Labs/TripoSR)** 3D reconstruction model to generate **high-quality 3D meshes and textures** from a single image, combined with our proprietary **Security Protocol Scanner** to assess **material authenticity, detect wear, and evaluate overall security grade**.
 
 ---
+![Uploading image.png…]()
 
 ## 🚀 Features
 
