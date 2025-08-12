@@ -48,30 +48,21 @@ It integrates the **[TripoSR](https://github.com/VAST-AI-Labs/TripoSR)** 3D reco
 ```bash
 git clone https://github.com/yourusername/PixelProof.git
 cd PixelProof
+
 2️⃣ Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3️⃣ Install TripoSR model
-bash
-Copy
-Edit
 git clone https://github.com/VAST-AI-Labs/TripoSR.git
 cd TripoSR
 pip install -r requirements.txt
 cd ..
+
 4️⃣ Install additional system dependencies
 Make sure you have PyTorch installed (with CUDA for GPU acceleration):
-
-bash
-Copy
-Edit
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 ▶️ Running PixelProof Locally
-bash
-Copy
-Edit
 python gradio_app.py
 This will launch the PixelProof Jewellery Scanner interface locally in your browser.
 
