@@ -1,4 +1,4 @@
-# 💎 PixelProof — Jewellery Security Protocol Scanner
+# 💎 PixelProof3D — Jewellery Security Protocol Scanner
 
 **PixelProof** is an advanced AI-powered jewellery analysis system designed to **authenticate, inspect, and reconstruct** jewellery pieces with high precision.
 
